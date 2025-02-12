@@ -1,6 +1,6 @@
 # yrs-ago.github.io
 
-Hosted at https://yrs-ago.github.io
+Hosted at https://yrs-ago.github.io/yrs-ago
 
 Made using [Hugo](https://gohugo.io/).
 
