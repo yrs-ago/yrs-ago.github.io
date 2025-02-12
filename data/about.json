@@ -1,23 +1,22 @@
 {
     "interests": [
-        "History of computing/technology",
-        "Computer architecture",
-        "Electronics",
-        "Low-level programming",
-        "Electromagnetism"
+        "Digital minimalism",
+        "Classic fiction",
+        "Japanese street culture",
+        "Mid-century modern design",
+        "Aesthetic dashboards"
     ],
     "hobbies": [
-        "Tinkering",
-        "Weightlifting",
+        "Music Production",
+        "Cooking",
         "Self-studying",
-        "Anime",
-        "Video games"
+        "Interior Design",
+        "Doomscrolling"
     ],
     "favoriteLanguages": [
-        "C",
-        "Assembly",
         "Python",
-        "Go"
+        "R",
+        "Java"
     ],
-    "careerStart": "2018-06-04"
+    "careerStart": "2021-07-12"
 }

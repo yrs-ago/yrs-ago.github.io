@@ -24,7 +24,7 @@ title = "Jonathan Hicks"
 
 [[menu.main]]
   name = "Resume"
-  url = "https://raw.githubusercontent.com/barrettotte/Resume/master/barrettotte-resume.pdf"
+  url = "https://raw.githubusercontent.com/yrs-ago/yrs-ago.github.io/b1a9084d763fb30377b4e35501610e2ca364294b/Jonathan%20Hicks%20-%20Resume%202025.pdf"
   weight = 6
 
 [[menu.main]]
@@ -70,14 +70,11 @@ title = "Jonathan Hicks"
   showProjectsList = true
 
   [params.links]
-    anilist = "https://anilist.co/user/barrettotte/"
-    hackernews = "https://news.ycombinator.com/user?id=barrettotte"
-    email = "barrettotte@gmail.com"
-    github = "https://github.com/barrettotte"
-    linkedin = "https://www.linkedin.com/in/barrettotte/"
-    resume = "https://raw.githubusercontent.com/barrettotte/Resume/master/barrettotte-resume.pdf"
-    ctftime = "https://ctftime.org/team/222222"
-    tryhackme = "https://tryhackme.com/p/barrettotte"
-    kaggle = "https://www.kaggle.com/barrettotte"
-    itchio = "https://barrettotte.itch.io/"
-    credly = "https://www.credly.com/users/barrett-otte"
+    beatstars = "https://www.beatstars.com/elixrrrr"
+    spotify = "https://open.spotify.com/artist/79Sjdt0dmZ77tgIAiaEAXS?si=qPrHyWR4SEOP4mD6PZfUxQ"
+    og soundcloud [hacked] = "https://soundcloud.com/elixrrrr"
+    new soundcloud = "https://soundcloud.com/yrs-ago"
+    gmail = "jonhicks909@gmail.com"
+    github = "https://github.com/yrs-ago"
+    linkedin = "https://www.linkedin.com/in/jonathancharleshicks/"
+    resume = "https://raw.githubusercontent.com/yrs-ago/yrs-ago.github.io/b1a9084d763fb30377b4e35501610e2ca364294b/Jonathan%20Hicks%20-%20Resume%202025.pdf"
