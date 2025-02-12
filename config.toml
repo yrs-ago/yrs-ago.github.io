@@ -1,0 +1,83 @@
+baseURL = "https://barrettotte.github.io"
+languageCode = "en-us"
+title = "Barrett Otte"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 2
+
+[[menu.main]]
+  name = "Bytes"
+  url = "/bytes"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 5
+
+[[menu.main]]
+  name = "Resume"
+  url = "https://raw.githubusercontent.com/barrettotte/Resume/master/barrettotte-resume.pdf"
+  weight = 6
+
+[[menu.main]]
+  name = "Misc"
+  url = "/misc"
+  weight = 7
+
+# https://gohugo.io/getting-started/configuration-markup
+[markup]
+
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+    lineAnchors = ""
+    anchorLineNos = false
+  
+  [markup.goldmark.renderer]
+    unsafe= true  # allow md+html mix
+
+[params]
+  author = "Barrett Otte"
+  colortheme = "dark"
+
+  dateFormat = "2006-01-02"
+  showReadTime = true
+  tocInline = false
+  # logo = 
+
+  # Home page settings
+  tagsOverview = false
+  showProjectsList = true
+
+  [params.links]
+    anilist = "https://anilist.co/user/barrettotte/"
+    hackernews = "https://news.ycombinator.com/user?id=barrettotte"
+    email = "barrettotte@gmail.com"
+    github = "https://github.com/barrettotte"
+    linkedin = "https://www.linkedin.com/in/barrettotte/"
+    resume = "https://raw.githubusercontent.com/barrettotte/Resume/master/barrettotte-resume.pdf"
+    ctftime = "https://ctftime.org/team/222222"
+    tryhackme = "https://tryhackme.com/p/barrettotte"
+    kaggle = "https://www.kaggle.com/barrettotte"
+    itchio = "https://barrettotte.itch.io/"
+    credly = "https://www.credly.com/users/barrett-otte"

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{- partial "head" . -}}
+
+  <body class="max-width mx-auto px3 ltr">
+    <div class="content index pt2 pb4">
+      {{- partial "header" . -}}
+      {{- block "main" . }}{{- end }}
+      {{- partial "footer" . -}}
+    </div>
+  </body>
+
+  <script src={{ "js/custom.js" | relURL }}></script>
+
+  {{ if .IsHome }}
+    <script type="text/javascript" src="/js/carousel.js"></script>
+    <link rel="stylesheet" href="/css/carousel.css">
+  {{ end }}
+
+</html>

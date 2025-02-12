@@ -1,0 +1,382 @@
+[
+  {
+    "name": "My First Program (C++)",
+    "url": "https://github.com/barrettotte/bytes/tree/master/code/first-program.cpp",
+    "date": "2011-09-06",
+    "category": "code"
+  },
+  {
+    "name": "Simulating Fishing Rod Bend in Unity",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2017/1/index.md",
+    "date": "2017-05-01",
+    "category": "code"
+  },
+  {
+    "name": "ColdFusion Service Pinger",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2018/2/index.md",
+    "date": "2018-12-01",
+    "category": "code"
+  },
+  {
+    "name": "IBM i Pull Code Utility",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2019/2/index.md",
+    "date": "2019-08-19",
+    "category": "code"
+  },
+  {
+    "name": "ColdFusion Neural Network",
+    "url": "https://github.com/barrettotte/bytes/tree/master/code/cf-neural-net",
+    "date": "2019-10-01",
+    "category": "code"
+  },
+  {
+    "name": "IBM i Joke Program",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2020/1/index.md",
+    "date": "2020-02-20",
+    "category": "code"
+  },
+  {
+    "name": "Send a Text Message with Twilio and DB2 SQL",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2020/3/index.md",
+    "date": "2020-04-23",
+    "category": "code"
+  },
+  {
+    "name": "Altair 8800 Kit",
+    "date": "2020-05-24",
+    "category": "electronics"
+  },
+  {
+    "name": "Projectile Motion in Pygame",
+    "url": "https://github.com/barrettotte/bytes/tree/master/code/pygame-projectile",
+    "date": "2020-09-07",
+    "category": "code"
+  },
+  {
+    "name": "DB2 SQL Generate Groovy Object",
+    "url": "https://github.com/barrettotte/bytes/tree/master/code/db2-sql-gen-groovy",
+    "date": "2021-06-01",
+    "category": "code"
+  },
+  {
+    "name": "DB2 SQL Dynamic Insert JSON",
+    "url": "https://github.com/barrettotte/bytes/tree/master/code/db2-sql-gen-insert",
+    "date": "2021-06-15",
+    "category": "code"
+  },
+  {
+    "name": "Standing Desk Control Cover",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/jarvis-controller-cover",
+    "date": "2021-10-08",
+    "category": "3d-print"
+  },
+  {
+    "name": "ColdFusion log4shell",
+    "url": "https://github.com/barrettotte/bytes/tree/master/old-posts/2021/3/index.md",
+    "date": "2021-12-13",
+    "category": "code"
+  },
+  {
+    "name": "Ender 3 Octoprint",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/ender3-octoprint",
+    "date": "2022-05-26",
+    "category": "3d-print"
+  },
+  {
+    "name": "Simple Vacuum Tube Amplifier",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/vacuum-tube-amplifier",
+    "date": "2022-08-28",
+    "category": "electronics"
+  },
+  {
+    "name": "Small Whiteboard Holder",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/whiteboard-holder-small",
+    "date": "2022-09-21",
+    "category": "3d-print"
+  },
+  {
+    "name": "Server Rack Top Extension",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/server-top-holders",
+    "date": "2022-10-11",
+    "category": "3d-print"
+  },
+  {
+    "name": "Hack The Boo 2022",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/hacktheboo-2022",
+    "date": "2022-10-27",
+    "category": "ctf"
+  },
+  {
+    "name": "Cyber Apocalypse 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/cyber-apocalypse-2023",
+    "date": "2023-03-23",
+    "category": "ctf"
+  },
+  {
+    "name": "PlaidCTF 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/plaid-ctf-2023",
+    "date": "2023-04-16",
+    "category": "ctf"
+  },
+  {
+    "name": "UMDCTF 2023",
+    "date": "2023-04-30",
+    "category": "ctf"
+  },
+  {
+    "name": "Monitor Power Brick Holders",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/monitor-power-tower",
+    "date": "2023-07-13",
+    "category": "3d-print"
+  },
+  {
+    "name": "Desk Phone Holder",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/desk-phone-mount",
+    "date": "2023-07-28",
+    "category": "3d-print"
+  },
+  {
+    "name": "Nitrile Glove Holder/Dispenser",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/resin-designs/glove-dispenser",
+    "date": "2023-08-01",
+    "category": "3d-print"
+  },
+  {
+    "name": "Elegoo Saturn 2 Exhaust Venting",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/resin-designs/saturn-2-venting",
+    "date": "2023-08-02",
+    "category": "3d-print"
+  },
+  {
+    "name": "Exhaust Duct Support",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/resin-designs/duct-holder",
+    "date": "2023-08-07",
+    "category": "3d-print"
+  },
+  {
+    "name": "Part Organizer Dividers",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/tray-divider",
+    "date": "2023-08-09",
+    "category": "3d-print"
+  },
+  {
+    "name": "RTL SDR Cable Support",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/rtl-sdr-support",
+    "date": "2023-08-20",
+    "category": "3d-print"
+  },
+  {
+    "name": "Laundry Bin Handle",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/laundry-handle",
+    "date": "2023-08-22",
+    "category": "3d-print"
+  },
+  {
+    "name": "Electroscope",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/electroscope",
+    "category": "electronics",
+    "date": "2023-09-14"
+  },
+  {
+    "name": "Flip 5 Stand",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/flip-5-stand",
+    "category": "3d-print",
+    "date": "2023-09-20"
+  },
+  {
+    "name": "Desk Small Tray",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/small-tray",
+    "category": "3d-print", 
+    "date": "2023-09-29"
+  },
+  {
+    "name": "Kaggle: Titanic",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/titanic",
+    "category": "kaggle",
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Kaggle: Digit Recognizer",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/digit-recognizer",
+    "category": "kaggle",
+    "date": "2023-10-05"
+  },
+  {
+    "name": "Kaggle: Plant Seedling Classification",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/plant-seedling-classification",
+    "category": "kaggle",
+    "date": "2023-10-06"
+  },
+  {
+    "name": "Kaggle: Housing Prices",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/home-data-for-ml-course",
+    "category": "kaggle",
+    "date": "2023-10-09"
+  },
+  {
+    "name": "SunshineCTF 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/sunshine-ctf-2023",
+    "category": "ctf",
+    "date": "2023-10-09"
+  },
+  {
+    "name": "Kaggle: Software Defects Binary Classification",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/playground-s3e23",
+    "category": "kaggle",
+    "date": "2023-10-10"
+  },
+  {
+    "name": "TCP1P CTF 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/tcp1p-2023",
+    "category": "ctf",
+    "date": "2023-10-15"
+  },
+  {
+    "name": "DEADFACE CTF 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/deadface-ctf-2023",
+    "category": "ctf",
+    "date": "2023-10-21"
+  },
+  {
+    "name": "Hack The Boo 2023",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/hacktheboo-2023",
+    "category": "ctf",
+    "date": "2023-10-27"
+  },
+  {
+    "name": "Kaggle: Plant Pathology 2021",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/plant-pathology-2021",
+    "category": "kaggle",
+    "date": "2023-10-29"
+  },
+  {
+    "name": "USB Microscope Stand",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/usb-microscope-stand",
+    "category": "3d-print",
+    "date": "2023-10-31"
+  },
+  {
+    "name": "Kaggle: Resistor Dataset",
+    "url": "https://www.kaggle.com/datasets/barrettotte/resistors",
+    "category": "kaggle",
+    "date": "2023-11-07"
+  },
+  {
+    "name": "Electrophorus",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/electrophorus",
+    "category": "electronics",
+    "date": "2023-11-09"
+  },
+  {
+    "name": "Kaggle: DEFCON31 AI Village CTF",
+    "url": "https://github.com/barrettotte/kaggle/tree/master/ai-ctf-defcon31",
+    "category": "kaggle",
+    "date": "2023-11-09"
+  },
+  {
+    "name": "CakeCTF 2023",
+    "url": "https://github.com/barrettotte/ctf#ctfs",
+    "category": "ctf",
+    "date": "2023-11-12"
+  },
+  {
+    "name": "Leyden Jar",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/leyden-jar",
+    "category": "electronics",
+    "date": "2023-11-16"
+  },
+  {
+    "name": "TV Foot CRT",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/tv-foot-crt",
+    "category": "3d-print",
+    "date": "2023-12-20"
+  },
+  {
+    "name": "Sony Trinitron External Display",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/tv/sony-trinitron#external-display",
+    "category": "electronics",
+    "date": "2023-12-23"
+  },
+  {
+    "name": "Sony Trinitron Remote Holder",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/tv/sony-trinitron#remote-holder",
+    "category": "3d-print",
+    "date": "2023-12-26"
+  },
+  {
+    "name": "Zenith 1980 External Display",
+    "url": "https://github.com/barrettotte/bytes/tree/master/electronics/tv/zenith-1980",
+    "category": "electronics",
+    "date": "2023-12-31"
+  },
+  {
+    "name": "Vtuber Joke",
+    "url": "https://github.com/barrettotte/bytes/tree/master/misc/vtuber",
+    "category": "misc",
+    "date": "2024-01-05"
+  },
+  {
+    "name": "Whiteboard Holder v2",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/whiteboard-holder-v2",
+    "category": "3d-print",
+    "date": "2024-01-25"
+  },
+  {
+    "name": "Laptop Holder",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/desk-designs/mac-holder",
+    "category": "3d-print",
+    "date": "2024-01-30"
+  },
+  {
+    "name": "Whiteboard Marker Holder",
+    "category": "3d-print",
+    "date": "2024-02-06"
+  },
+  {
+    "name": "CNC Controller Holder",
+    "url": "https://github.com/barrettotte/bytes/tree/master/3d-printing/cnc-designs/cnc-controller-holder",
+    "category": "3d-print",
+    "date": "2024-03-04"
+  },
+  {
+    "name": "Cyber Apocalypse 2024",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/cyber-apocalypse-2024",
+    "category": "ctf",
+    "date": "2024-03-13"
+  },
+  {
+    "name": "CompTIA Security+ Certification",
+    "url": "https://www.credly.com/badges/5fc52414-f0b7-444e-88eb-9632fb742bd9/public_url",
+    "category": "cert",
+    "date": "2024-07-02"
+  },
+  {
+    "name": "AWS Certified Cloud Practitioner",
+    "url": "https://www.credly.com/badges/58be814e-4b16-4aab-bc79-ec90fe5f923a/public_url",
+    "category": "cert",
+    "date": "2024-08-23"
+  },
+  {
+    "name": "Note encrypt/decrypt scripts",
+    "category": "code",
+    "date": "2024-09-09"
+  },
+  {
+    "name": "AWS Certified Developer - Associate",
+    "url": "https://www.credly.com/badges/1dbd44c3-b0fc-421d-a210-858ac7dc4dfb/public_url",
+    "category": "cert",
+    "date": "2024-09-19"
+  },
+  {
+    "name": "Patriot CTF 2024",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/patriot-ctf-2024",
+    "category": "ctf",
+    "date": "2024-09-22"
+  },
+  {
+    "name": "DEADFACE CTF 2024",
+    "url": "https://github.com/barrettotte/cyber-archive/tree/master/ctf/deadface-ctf-2024",
+    "category": "ctf",
+    "date": "2024-10-19"
+  }
+]

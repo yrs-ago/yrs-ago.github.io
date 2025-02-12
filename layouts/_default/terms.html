@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <article class="post">
+    <h1>Tags</h1>
+    <div class="content">
+      {{ if (eq .Type "tags") }}
+        <div id="tag-cloud">
+          {{ $terms := slice }}
+
+          <!-- project tags -->
+          {{ range $p := .Site.Data.projects.list }}
+            {{ $terms = union $terms .tags }}  
+          {{ end }}
+
+          <!-- byte tags -->
+          {{ range $term := .Data.Terms }}
+            {{ $terms = union $terms (slice $term.Page.Title) }}
+          {{ end }}
+
+          <div class="tag-cloud-tags">
+            {{ range $term := sort $terms }}
+              <a href="/tags/{{- . -}}">{{- . -}}</a>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}
