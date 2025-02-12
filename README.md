@@ -1,8 +1,8 @@
 # yrs-ago.github.io
 
 Hosted at https://yrs-ago.github.io/
-
-Made using [Hugo](https://gohugo.io/).
+Made using [Hugo](https://gohugo.io/)
+Work in Prog (ignore most tabs for now).
 
 ## Dev
 
