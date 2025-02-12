@@ -57,7 +57,7 @@ title = "Jonathan Hicks"
     unsafe= true  # allow md+html mix
 
 [params]
-  author = "Barrett Otte"
+  author = "Jonathan Hicks"
   colortheme = "dark"
 
   dateFormat = "2006-01-02"
