@@ -1,6 +1,7 @@
 baseURL = "https://yrs-ago.github.io/"
 languageCode = "en-us"
 title = "Jonathan Hicks"
+theme = "cactus"
 
 [[menu.main]]
   name = "Home"
